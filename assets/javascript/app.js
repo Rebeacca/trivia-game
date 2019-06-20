@@ -28,3 +28,9 @@ var questions = [{
     a: "Okily Dokily!"
 
 }];
+
+var timer = 30;
+var reset;
+var incorrect = 0;
+var correct = 0;
+
