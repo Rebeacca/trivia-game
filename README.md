@@ -15,5 +15,5 @@ Author:
 Rebeacca Modayil
 
 Project links:
-https://rebeacca.github.io/unit-4-game/
-https://github.com/Rebeacca/unit-4-game
+https://rebeacca.github.io/trivia-game/
+https://github.com/Rebeacca/trivia-game
